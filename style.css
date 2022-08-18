@@ -1,0 +1,65 @@
+p{
+    color: rgb(235, 62, 62);
+    letter-spacing: 2px;
+}
+.mobilenet{
+    letter-spacing: 2px;
+}
+.google_lens{
+    letter-spacing: 2px;
+    margin-right: 100px;
+}
+img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+}
+.white{
+    color: white;
+}
+span{
+letter-spacing: 2px;
+}
+b{
+    color: rgba(11, 0, 78, 0.818);
+}
+.first,.second{
+    background-color: white;
+    border-radius: 10px;
+    line-height: 2;
+}
+.test_image_and_result1{
+    margin-top: 15px;
+    background-color: rgb(0, 107, 44);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px rgb(227, 255, 42);
+    width: 99%;
+    margin-bottom: 15px;
+}
+.google_lens{
+    color: black;
+}
+h4{
+    color: white;
+    font-weight: bold;
+}
+.bottom{
+    color: rgb(14, 0, 69);
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-family: 'Roboto Slab',serif;
+    font-size: 22px;
+}
+
+i{
+    color: coral;
+    font-size: 15px;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(#4287f5 0%, #fc0000 100%);
+}
